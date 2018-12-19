@@ -50,7 +50,7 @@ class App extends Component {
     const buttonsStyle = {
       marginTop: "10px",
       marginLeft: "5px",
-      cursor: "pointer"
+      
     };
 
     return (
